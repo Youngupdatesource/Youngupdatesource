@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Farel+Nova+A.;Software+Developer+from+Indonesia;Passionate+about+Tech+%26+Code" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 🐳, I'm Farel Nova A.</h1>
 
 <p align="center">
   <strong>Software Developer | Tech Enthusiast | Open Source Contributor</strong>
@@ -31,7 +29,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="GNU Bash" />
 </p>
 
 ### **Frameworks & Runtimes**
